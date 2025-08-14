@@ -1,0 +1,1 @@
+{"version":3,"file":"IVideo.d.ts","sourceRoot":"","sources":["../../src/Interfaces/IVideo.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,uBAAuB,CAAC;AAEjD,MAAM,WAAW,MAAM,CAAC,CAAC;IACvB,KAAK,EAAE,MAAM,CAAC;IACd,QAAQ,EAAE,QAAQ,CAAC,CAAC,CAAC,CAAC;IACtB,WAAW,IAAI,MAAM,CAAC;IACtB,IAAI,IAAI,IAAI,CAAC;CACd"}
